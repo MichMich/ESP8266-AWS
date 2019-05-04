@@ -8,7 +8,7 @@ and upload your spiffs (data) folder using the following terminal command:
 platformio run --target uploadfs
 ```
 
-For more information, check: http://michaelteeuw.nl
+For more information, check: https://michaelteeuw.nl/post/184650388202/connecting-an-esp8266-to-aws-iot
 
 ## Warning
 
