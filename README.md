@@ -1,6 +1,6 @@
 # ESP8266 AWS IoT Example
 
-This project shows how to connect your ESP8266 to AWS IoT.
+This [Platform.io](https://platformio.org) project shows how to connect your ESP8266 to AWS IoT.
 
 Don't forget to add your certificate and key to the `data` directory
 and upload your spiffs (data) folder using the following terminal command:
